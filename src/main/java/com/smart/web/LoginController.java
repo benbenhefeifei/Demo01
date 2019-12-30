@@ -8,11 +8,12 @@ import com.smart.service.UserService;
 
 import javax.servlet.http.HttpServletRequest;
 
+//----update2019-12-30
 @Controller
 public class LoginController {
 
     private UserService userService;
-
+    private UserService userDemoService;
     @Autowired
     public void setUserService(UserService userService) {
         this.userService = userService;
