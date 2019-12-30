@@ -6,11 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fa8b45a-93d0-4b3c-893f-fac3879483b7" name="Default Changelist" comment="IDEA Mysql SpringMVC Ok">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smart/web/DemoController.java" afterDir="false" />
+    <list default="true" id="4fa8b45a-93d0-4b3c-893f-fac3879483b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smart/web/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smart/web/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smart/web/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smart/web/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Demo01/WEB-INF/classes/com/smart/web/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Demo01/WEB-INF/classes/com/smart/web/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/web/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/web/LoginController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/UserDAO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+              <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#449#450#0" expanded="true" />
@@ -84,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="209">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#521#522#0" expanded="true" />
@@ -98,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/DemoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -107,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -192,8 +191,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-54" />
+    <option name="y" value="-11" />
     <option name="width" value="1260" />
     <option name="height" value="811" />
   </component>
@@ -420,7 +420,7 @@
       <workItem from="1577512253981" duration="2017000" />
       <workItem from="1577514672138" duration="97000" />
       <workItem from="1577671981648" duration="1561000" />
-      <workItem from="1577673924142" duration="2445000" />
+      <workItem from="1577673924142" duration="3371000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA Mysql SpringMVC Ok">
       <created>1577675276327</created>
@@ -429,11 +429,18 @@
       <option name="project" value="LOCAL" />
       <updated>1577675276327</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="IDEA Mysql SpringMVC Ok">
+      <created>1577676408300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577676408300</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12929000" />
+    <option name="totallyTimeSpent" value="13855000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,9 +452,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="0" width="1260" height="811" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30583334" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29692557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -457,7 +465,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30283913" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10903427" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -467,7 +475,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32866043" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.088785045" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.329653" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.32879046" />
       <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32879046" />
@@ -484,6 +492,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IDEA Mysql SpringMVC Ok" />
@@ -573,7 +591,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/UserDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#449#450#0" expanded="true" />
@@ -582,24 +600,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/TestController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/DemoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/DemoController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="209">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
