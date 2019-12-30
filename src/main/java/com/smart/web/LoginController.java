@@ -8,7 +8,7 @@ import com.smart.service.UserService;
 
 import javax.servlet.http.HttpServletRequest;
 
-//----update2019-12-30
+//----update2019-12-30 aSD
 @Controller
 public class LoginController {
 
